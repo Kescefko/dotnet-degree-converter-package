@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KodeKonvert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f5b29bf65c026667fa90b281d9beddb7a4e03f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ddf2ce17a44f90e80123713ec8528d72d2fdfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("KodeKonvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KodeKonvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
