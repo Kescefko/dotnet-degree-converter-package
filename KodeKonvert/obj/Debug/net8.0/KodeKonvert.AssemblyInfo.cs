@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple C# temperature converter package.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+168f758b6bfb120a5436f77a82bf9c99eb60fbb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+23363dfad5e3e01e0f93fdece993c29a10f0a46f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KodeKonvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KodeKonvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
