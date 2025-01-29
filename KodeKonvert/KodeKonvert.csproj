@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <OutputPath>bin/</OutputPath>
+    <!-- <OutputPath>bin/</OutputPath> -->
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>KodeKonvert</PackageId>
     <Title>Kode Kloud Temp Converter</Title>
