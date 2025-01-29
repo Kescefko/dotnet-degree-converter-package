@@ -8,7 +8,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>KodeKonvert</PackageId>
     <Title>Kode Kloud Temp Converter</Title>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Kescefko</Authors>
     <Description>A simple C# temperature converter package.</Description>
     <PackageTags>temperature, converter, celsius, fahrenheit, kelvin</PackageTags>
